@@ -9,6 +9,7 @@
 1. Click **Preferences** and update font name to `ObserveIcons`
 1. Download font. Unpack the zip and move the fonts directory and style.css file into the font directory in this repo
 1. `npm run generate-component`
+1. `npm run lintfix`
 
 ## License
 [ISC](LICENSE.md)
