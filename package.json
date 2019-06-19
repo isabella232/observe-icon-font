@@ -1,0 +1,35 @@
+{
+  "name": "observe-icon-font",
+  "version": "0.0.0",
+  "description": "Fonts for use in the Observe mobile app and related projects",
+  "main": "index.js",
+  "style": "font/style.css",
+  "scripts": {
+    "lint": "devseed-standard",
+    "lintfix": "devseed-standard --fix",
+    "get-svg": "./scripts/get-all-svg.js",
+    "generate-component": "generate-icon font/style.css --componentName=ObserveIcons --fontFamily=ObserveIcons > ObserveIcon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developmentseed/observe-icon-font.git"
+  },
+  "author": "Development Seed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developmentseed/observe-icon-font/issues"
+  },
+  "homepage": "https://github.com/developmentseed/observe-icon-font#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0",
+    "@mapbox/maki": "^6.1.0",
+    "devseed-standard": "^1.1.0",
+    "folder-reader": "^2.0.0",
+    "pump": "^3.0.0",
+    "temaki": "^1.5.0",
+    "through2": "^3.0.1"
+  },
+  "dependencies": {
+    "react-native-vector-icons": "^6.5.0"
+  }
+}
