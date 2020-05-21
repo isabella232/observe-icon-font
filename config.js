@@ -1,6 +1,7 @@
 module.exports = {
-  maki: true,
-  temaki: true,
+  maki: false,
+  temaki: false,
+  iD: true,
   fontAwesome: {
     include: [
       'bacon',

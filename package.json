@@ -7,7 +7,7 @@
   "scripts": {
     "lint": "devseed-standard",
     "lintfix": "devseed-standard --fix",
-    "get-svg": "./scripts/get-all-svg.js",
+    "get-svg": "git clone --depth=1 https://github.com/openstreetmap/iD.git && ./scripts/get-all-svg.js",
     "generate-component": "generate-icon font/style.css --componentName=ObserveIcons --fontFamily=ObserveIcons > ObserveIcon.js"
   },
   "repository": {

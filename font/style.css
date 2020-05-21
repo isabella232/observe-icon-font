@@ -1,12 +1,13 @@
 @font-face {
   font-family: 'ObserveIcons';
-  src:  url('fonts/ObserveIcons.eot?1kd1m9');
-  src:  url('fonts/ObserveIcons.eot?1kd1m9#iefix') format('embedded-opentype'),
-    url('fonts/ObserveIcons.ttf?1kd1m9') format('truetype'),
-    url('fonts/ObserveIcons.woff?1kd1m9') format('woff'),
-    url('fonts/ObserveIcons.svg?1kd1m9#ObserveIcons') format('svg');
+  src:  url('fonts/ObserveIcons.eot?7kit3i');
+  src:  url('fonts/ObserveIcons.eot?7kit3i#iefix') format('embedded-opentype'),
+    url('fonts/ObserveIcons.ttf?7kit3i') format('truetype'),
+    url('fonts/ObserveIcons.woff?7kit3i') format('woff'),
+    url('fonts/ObserveIcons.svg?7kit3i#ObserveIcons') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 [class^="icon-"], [class*=" icon-"] {
@@ -75,960 +76,1828 @@
 .icon-fas_warehouse:before {
   content: "\e910";
 }
-.icon-maki_aerialway:before {
+.icon-iD_boundary .path1:before {
   content: "\e911";
+  color: rgb(88, 169, 237);
 }
-.icon-maki_airfield:before {
+.icon-iD_boundary .path2:before {
   content: "\e912";
+  margin-left: -1em;
+  color: rgb(140, 208, 95);
 }
-.icon-maki_airport:before {
+.icon-iD_boundary .path3:before {
   content: "\e913";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_alcohol_shop:before {
+.icon-iD_boundary .path4:before {
   content: "\e914";
+  margin-left: -1em;
+  color: none;
 }
-.icon-maki_american_football:before {
+.icon-iD_boundary .path5:before {
   content: "\e915";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_amusement_park:before {
+.icon-iD_boundary .path6:before {
   content: "\e916";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_aquarium:before {
+.icon-iD_boundary .path7:before {
   content: "\e917";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_art_gallery:before {
+.icon-iD_boundary .path8:before {
   content: "\e918";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_attraction:before {
+.icon-iD_boundary .path9:before {
   content: "\e919";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_bakery:before {
+.icon-iD_boundary .path10:before {
   content: "\e91a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_bank:before {
+.icon-iD_highway_living-street .path1:before {
   content: "\e91b";
+  color: rgb(152, 152, 152);
 }
-.icon-maki_bar:before {
+.icon-iD_highway_living-street .path2:before {
   content: "\e91c";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
 }
-.icon-maki_barrier:before {
+.icon-iD_highway_living-street .path3:before {
   content: "\e91d";
+  margin-left: -1em;
+  color: rgb(181, 181, 181);
 }
-.icon-maki_baseball:before {
+.icon-iD_highway_living-street .path4:before {
   content: "\e91e";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
 }
-.icon-maki_basketball:before {
+.icon-iD_highway_living-street .path5:before {
   content: "\e91f";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
 }
-.icon-maki_bbq:before {
+.icon-iD_highway_motorway-link .path1:before {
   content: "\e920";
+  color: rgb(181, 181, 181);
 }
-.icon-maki_beach:before {
+.icon-iD_highway_motorway-link .path2:before {
   content: "\e921";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.icon-maki_beer:before {
+.icon-iD_highway_motorway-link .path3:before {
   content: "\e922";
+  margin-left: -1em;
+  color: rgb(181, 181, 181);
 }
-.icon-maki_bicycle_share:before {
+.icon-iD_highway_motorway-link .path4:before {
   content: "\e923";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_bicycle:before {
+.icon-iD_highway_motorway:before {
   content: "\e924";
 }
-.icon-maki_blood_bank:before {
+.icon-iD_highway_primary-link .path1:before {
   content: "\e925";
+  color: rgb(181, 181, 181);
 }
-.icon-maki_bowling_alley:before {
+.icon-iD_highway_primary-link .path2:before {
   content: "\e926";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_bridge:before {
+.icon-iD_highway_primary-link .path3:before {
   content: "\e927";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.icon-maki_building_alt1:before {
+.icon-iD_highway_primary:before {
   content: "\e928";
 }
-.icon-maki_building:before {
+.icon-iD_highway_residential .path1:before {
   content: "\e929";
+  color: rgb(152, 152, 152);
 }
-.icon-maki_bus:before {
+.icon-iD_highway_residential .path2:before {
   content: "\e92a";
+  margin-left: -1em;
+  color: rgb(181, 181, 181);
 }
-.icon-maki_cafe:before {
+.icon-iD_highway_residential .path3:before {
   content: "\e92b";
+  margin-left: -1em;
+  color: rgb(181, 181, 181);
 }
-.icon-maki_campsite:before {
+.icon-iD_highway_residential .path4:before {
   content: "\e92c";
+  margin-left: -1em;
+  color: rgb(181, 181, 181);
 }
-.icon-maki_car_rental:before {
+.icon-iD_highway_residential .path5:before {
   content: "\e92d";
+  margin-left: -1em;
+  color: rgb(181, 181, 181);
 }
-.icon-maki_car_repair:before {
+.icon-iD_highway_secondary-link .path1:before {
   content: "\e92e";
+  color: rgb(181, 181, 181);
 }
-.icon-maki_car:before {
+.icon-iD_highway_secondary-link .path2:before {
   content: "\e92f";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_casino:before {
+.icon-iD_highway_secondary-link .path3:before {
   content: "\e930";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.icon-maki_castle:before {
+.icon-iD_highway_secondary:before {
   content: "\e931";
 }
-.icon-maki_cemetery:before {
+.icon-iD_highway_service:before {
   content: "\e932";
+  color: #989898;
 }
-.icon-maki_charging_station:before {
+.icon-iD_highway_steps .path1:before {
   content: "\e933";
+  color: rgb(68, 68, 68);
+  opacity: 0.496;
 }
-.icon-maki_cinema:before {
+.icon-iD_highway_steps .path2:before {
   content: "\e934";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_circle_stroked:before {
+.icon-iD_highway_tertiary-link .path1:before {
   content: "\e935";
+  color: rgb(181, 181, 181);
 }
-.icon-maki_circle:before {
+.icon-iD_highway_tertiary-link .path2:before {
   content: "\e936";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_city:before {
+.icon-iD_highway_tertiary-link .path3:before {
   content: "\e937";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.icon-maki_clothing_store:before {
+.icon-iD_highway_tertiary:before {
   content: "\e938";
 }
-.icon-maki_college:before {
+.icon-iD_highway_trunk-link .path1:before {
   content: "\e939";
+  color: rgb(181, 181, 181);
 }
-.icon-maki_commercial:before {
+.icon-iD_highway_trunk-link .path2:before {
   content: "\e93a";
+  margin-left: -1em;
+  color: rgb(181, 181, 181);
 }
-.icon-maki_communications_tower:before {
+.icon-iD_highway_trunk-link .path3:before {
   content: "\e93b";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_confectionery:before {
+.icon-iD_highway_trunk-link .path4:before {
   content: "\e93c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.icon-maki_convenience:before {
+.icon-iD_highway_trunk:before {
   content: "\e93d";
 }
-.icon-maki_cricket:before {
+.icon-iD_highway_unclassified:before {
   content: "\e93e";
+  color: #989898;
 }
-.icon-maki_cross:before {
+.icon-iD_multipolygon .path1:before {
   content: "\e93f";
+  color: rgb(255, 255, 255);
 }
-.icon-maki_dam:before {
+.icon-iD_multipolygon .path2:before {
   content: "\e940";
+  margin-left: -1em;
+  color: none;
 }
-.icon-maki_danger:before {
+.icon-iD_multipolygon .path3:before {
   content: "\e941";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
 }
-.icon-maki_defibrillator:before {
+.icon-iD_multipolygon .path4:before {
   content: "\e942";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_dentist:before {
+.icon-iD_multipolygon .path5:before {
   content: "\e943";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
 }
-.icon-maki_doctor:before {
+.icon-iD_multipolygon .path6:before {
   content: "\e944";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_dog_park:before {
+.icon-iD_multipolygon .path7:before {
   content: "\e945";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
 }
-.icon-maki_drinking_water:before {
+.icon-iD_multipolygon .path8:before {
   content: "\e946";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_embassy:before {
+.icon-iD_multipolygon .path9:before {
   content: "\e947";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
 }
-.icon-maki_emergency_phone:before {
+.icon-iD_multipolygon .path10:before {
   content: "\e948";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_entrance_alt1:before {
+.icon-iD_other_line:before {
   content: "\e949";
 }
-.icon-maki_entrance:before {
+.icon-iD_pipeline_line .path1:before {
   content: "\e94a";
+  color: rgb(181, 181, 181);
 }
-.icon-maki_farm:before {
+.icon-iD_pipeline_line .path2:before {
   content: "\e94b";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
 }
-.icon-maki_fast_food:before {
+.icon-iD_pipeline_line .path3:before {
   content: "\e94c";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
 }
-.icon-maki_fence:before {
+.icon-iD_power_line .path1:before {
   content: "\e94d";
+  color: rgb(152, 152, 152);
 }
-.icon-maki_ferry:before {
+.icon-iD_power_line .path2:before {
   content: "\e94e";
+  margin-left: -1em;
+  color: rgb(181, 181, 181);
 }
-.icon-maki_fire_station:before {
+.icon-iD_relation .path1:before {
   content: "\e94f";
+  color: rgb(204, 204, 204);
 }
-.icon-maki_fitness_centre:before {
+.icon-iD_relation .path2:before {
   content: "\e950";
+  margin-left: -1em;
+  color: rgb(112, 55, 47);
 }
-.icon-maki_florist:before {
+.icon-iD_relation .path3:before {
   content: "\e951";
+  margin-left: -1em;
+  color: rgb(224, 109, 95);
 }
-.icon-maki_fuel:before {
+.icon-iD_relation .path4:before {
   content: "\e952";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_furniture:before {
+.icon-iD_relation .path5:before {
   content: "\e953";
+  margin-left: -1em;
+  color: rgb(44, 84, 118);
 }
-.icon-maki_gaming:before {
+.icon-iD_relation .path6:before {
   content: "\e954";
+  margin-left: -1em;
+  color: rgb(88, 169, 237);
 }
-.icon-maki_garden_centre:before {
+.icon-iD_relation .path7:before {
   content: "\e955";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_garden:before {
+.icon-iD_relation .path8:before {
   content: "\e956";
+  margin-left: -1em;
+  color: rgb(70, 104, 47);
 }
-.icon-maki_gift:before {
+.icon-iD_relation .path9:before {
   content: "\e957";
+  margin-left: -1em;
+  color: rgb(140, 208, 95);
 }
-.icon-maki_globe:before {
+.icon-iD_relation .path10:before {
   content: "\e958";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_golf:before {
+.icon-iD_relation .path11:before {
   content: "\e959";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
 }
-.icon-maki_grocery:before {
+.icon-iD_relation .path12:before {
   content: "\e95a";
+  margin-left: -1em;
+  color: rgb(204, 204, 204);
 }
-.icon-maki_hairdresser:before {
+.icon-iD_relation .path13:before {
   content: "\e95b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_harbor:before {
+.icon-iD_restriction_no-left-turn .path1:before {
   content: "\e95c";
+  color: rgb(152, 152, 152);
 }
-.icon-maki_hardware:before {
+.icon-iD_restriction_no-left-turn .path2:before {
   content: "\e95d";
+  margin-left: -1em;
+  color: rgb(224, 109, 95);
 }
-.icon-maki_heart:before {
+.icon-iD_restriction_no-right-turn .path1:before {
   content: "\e95e";
+  color: rgb(152, 152, 152);
 }
-.icon-maki_heliport:before {
+.icon-iD_restriction_no-right-turn .path2:before {
   content: "\e95f";
+  margin-left: -1em;
+  color: rgb(224, 109, 95);
 }
-.icon-maki_home:before {
+.icon-iD_restriction_no-straight-on .path1:before {
   content: "\e960";
+  color: rgb(152, 152, 152);
 }
-.icon-maki_horse_riding:before {
+.icon-iD_restriction_no-straight-on .path2:before {
   content: "\e961";
+  margin-left: -1em;
+  color: rgb(224, 109, 95);
 }
-.icon-maki_hospital:before {
+.icon-iD_restriction_no-u-turn .path1:before {
   content: "\e962";
+  color: rgb(152, 152, 152);
 }
-.icon-maki_ice_cream:before {
+.icon-iD_restriction_no-u-turn .path2:before {
   content: "\e963";
+  margin-left: -1em;
+  color: rgb(224, 109, 95);
 }
-.icon-maki_industry:before {
+.icon-iD_restriction_only-left-turn:before {
   content: "\e964";
+  color: #58a9ed;
 }
-.icon-maki_information:before {
+.icon-iD_restriction_only-right-turn:before {
   content: "\e965";
+  color: #58a9ed;
 }
-.icon-maki_jewelry_store:before {
+.icon-iD_restriction_only-straight-on:before {
   content: "\e966";
+  color: #58a9ed;
 }
-.icon-maki_karaoke:before {
+.icon-iD_restriction_only-u-turn:before {
   content: "\e967";
+  color: #58a9ed;
 }
-.icon-maki_landmark:before {
+.icon-iD_restriction:before {
   content: "\e968";
+  color: #e06d5f;
 }
-.icon-maki_landuse:before {
+.icon-iD_route_detour .path1:before {
   content: "\e969";
+  color: rgb(252, 108, 20);
 }
-.icon-maki_laundry:before {
+.icon-iD_route_detour .path2:before {
   content: "\e96a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.icon-maki_library:before {
+.icon-iD_route_detour .path3:before {
   content: "\e96b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
-.icon-maki_lighthouse:before {
+.icon-iD_route_master .path1:before {
   content: "\e96c";
+  color: rgb(70, 104, 47);
 }
-.icon-maki_lodging:before {
+.icon-iD_route_master .path2:before {
   content: "\e96d";
+  margin-left: -1em;
+  color: rgb(112, 55, 47);
 }
-.icon-maki_logging:before {
+.icon-iD_route_master .path3:before {
   content: "\e96e";
+  margin-left: -1em;
+  color: rgb(44, 84, 118);
 }
-.icon-maki_marker_stroked:before {
+.icon-iD_route_master .path4:before {
   content: "\e96f";
+  margin-left: -1em;
+  color: rgb(140, 208, 95);
 }
-.icon-maki_marker:before {
+.icon-iD_route_master .path5:before {
   content: "\e970";
+  margin-left: -1em;
+  color: rgb(224, 109, 95);
 }
-.icon-maki_mobile_phone:before {
+.icon-iD_route_master .path6:before {
   content: "\e971";
+  margin-left: -1em;
+  color: rgb(88, 169, 237);
 }
-.icon-maki_monument:before {
+.icon-iD_route_master .path7:before {
   content: "\e972";
+  margin-left: -1em;
+  color: rgb(112, 55, 47);
 }
-.icon-maki_mountain:before {
+.icon-iD_route_master .path8:before {
   content: "\e973";
+  margin-left: -1em;
+  color: rgb(44, 84, 118);
 }
-.icon-maki_museum:before {
+.icon-iD_route_master .path9:before {
   content: "\e974";
+  margin-left: -1em;
+  color: rgb(57, 94, 83);
 }
-.icon-maki_music:before {
+.icon-iD_route_master .path10:before {
   content: "\e975";
+  margin-left: -1em;
+  color: rgb(91, 80, 47);
 }
-.icon-maki_natural:before {
+.icon-iD_route_master .path11:before {
   content: "\e976";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_optician:before {
+.icon-iD_route_master .path12:before {
   content: "\e977";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_paint:before {
+.icon-iD_route_master .path13:before {
   content: "\e978";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_park_alt1:before {
+.icon-iD_route_master .path14:before {
   content: "\e979";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_park:before {
+.icon-iD_route_master .path15:before {
   content: "\e97a";
+  margin-left: -1em;
+  color: rgb(70, 104, 47);
 }
-.icon-maki_parking_garage:before {
+.icon-iD_route_master .path16:before {
   content: "\e97b";
+  margin-left: -1em;
+  color: rgb(112, 55, 47);
 }
-.icon-maki_parking:before {
+.icon-iD_route_master .path17:before {
   content: "\e97c";
+  margin-left: -1em;
+  color: rgb(44, 84, 118);
 }
-.icon-maki_pharmacy:before {
+.icon-iD_route_master .path18:before {
   content: "\e97d";
+  margin-left: -1em;
+  color: rgb(140, 208, 95);
 }
-.icon-maki_picnic_site:before {
+.icon-iD_route_master .path19:before {
   content: "\e97e";
+  margin-left: -1em;
+  color: rgb(224, 109, 95);
 }
-.icon-maki_pitch:before {
+.icon-iD_route_master .path20:before {
   content: "\e97f";
+  margin-left: -1em;
+  color: rgb(88, 169, 237);
 }
-.icon-maki_place_of-worship:before {
+.icon-iD_route_master .path21:before {
   content: "\e980";
+  margin-left: -1em;
+  color: rgb(112, 55, 47);
 }
-.icon-maki_playground:before {
+.icon-iD_route_master .path22:before {
   content: "\e981";
+  margin-left: -1em;
+  color: rgb(44, 84, 118);
 }
-.icon-maki_police:before {
+.icon-iD_route_master .path23:before {
   content: "\e982";
+  margin-left: -1em;
+  color: rgb(57, 94, 83);
 }
-.icon-maki_post:before {
+.icon-iD_route_master .path24:before {
   content: "\e983";
+  margin-left: -1em;
+  color: rgb(91, 80, 47);
 }
-.icon-maki_prison:before {
+.icon-iD_route_master .path25:before {
   content: "\e984";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_rail_light:before {
+.icon-iD_route_master .path26:before {
   content: "\e985";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_rail_metro:before {
+.icon-iD_route_master .path27:before {
   content: "\e986";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_rail:before {
+.icon-iD_route_master .path28:before {
   content: "\e987";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_ranger_station:before {
+.icon-iD_route_master .path29:before {
   content: "\e988";
+  margin-left: -1em;
+  color: rgb(70, 104, 47);
 }
-.icon-maki_recycling:before {
+.icon-iD_route_master .path30:before {
   content: "\e989";
+  margin-left: -1em;
+  color: rgb(112, 55, 47);
 }
-.icon-maki_religious_buddhist:before {
+.icon-iD_route_master .path31:before {
   content: "\e98a";
+  margin-left: -1em;
+  color: rgb(44, 84, 118);
 }
-.icon-maki_religious_christian:before {
+.icon-iD_route_master .path32:before {
   content: "\e98b";
+  margin-left: -1em;
+  color: rgb(140, 208, 95);
 }
-.icon-maki_religious_jewish:before {
+.icon-iD_route_master .path33:before {
   content: "\e98c";
+  margin-left: -1em;
+  color: rgb(224, 109, 95);
 }
-.icon-maki_religious_muslim:before {
+.icon-iD_route_master .path34:before {
   content: "\e98d";
+  margin-left: -1em;
+  color: rgb(88, 169, 237);
 }
-.icon-maki_residential_community:before {
+.icon-iD_route_master .path35:before {
   content: "\e98e";
+  margin-left: -1em;
+  color: rgb(112, 55, 47);
 }
-.icon-maki_restaurant_noodle:before {
+.icon-iD_route_master .path36:before {
   content: "\e98f";
+  margin-left: -1em;
+  color: rgb(44, 84, 118);
 }
-.icon-maki_restaurant_pizza:before {
+.icon-iD_route_master .path37:before {
   content: "\e990";
+  margin-left: -1em;
+  color: rgb(57, 94, 83);
 }
-.icon-maki_restaurant_seafood:before {
+.icon-iD_route_master .path38:before {
   content: "\e991";
+  margin-left: -1em;
+  color: rgb(91, 80, 47);
 }
-.icon-maki_restaurant:before {
+.icon-iD_route_master .path39:before {
   content: "\e992";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_roadblock:before {
+.icon-iD_route_master .path40:before {
   content: "\e993";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_rocket:before {
+.icon-iD_route_master .path41:before {
   content: "\e994";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_school:before {
+.icon-iD_route_master .path42:before {
   content: "\e995";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_scooter:before {
+.icon-iD_route .path1:before {
   content: "\e996";
+  color: rgb(70, 104, 47);
 }
-.icon-maki_shelter:before {
+.icon-iD_route .path2:before {
   content: "\e997";
+  margin-left: -1em;
+  color: rgb(112, 55, 47);
 }
-.icon-maki_shoe:before {
+.icon-iD_route .path3:before {
   content: "\e998";
+  margin-left: -1em;
+  color: rgb(44, 84, 118);
 }
-.icon-maki_shop:before {
+.icon-iD_route .path4:before {
   content: "\e999";
+  margin-left: -1em;
+  color: rgb(140, 208, 95);
 }
-.icon-maki_skateboard:before {
+.icon-iD_route .path5:before {
   content: "\e99a";
+  margin-left: -1em;
+  color: rgb(224, 109, 95);
 }
-.icon-maki_skiing:before {
+.icon-iD_route .path6:before {
   content: "\e99b";
+  margin-left: -1em;
+  color: rgb(88, 169, 237);
 }
-.icon-maki_slaughterhouse:before {
+.icon-iD_route .path7:before {
   content: "\e99c";
+  margin-left: -1em;
+  color: rgb(112, 55, 47);
 }
-.icon-maki_slipway:before {
+.icon-iD_route .path8:before {
   content: "\e99d";
+  margin-left: -1em;
+  color: rgb(44, 84, 118);
 }
-.icon-maki_snowmobile:before {
+.icon-iD_route .path9:before {
   content: "\e99e";
+  margin-left: -1em;
+  color: rgb(57, 94, 83);
 }
-.icon-maki_soccer:before {
+.icon-iD_route .path10:before {
   content: "\e99f";
+  margin-left: -1em;
+  color: rgb(91, 80, 47);
 }
-.icon-maki_square_stroked:before {
+.icon-iD_route .path11:before {
   content: "\e9a0";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_square:before {
+.icon-iD_route .path12:before {
   content: "\e9a1";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_stadium:before {
+.icon-iD_route .path13:before {
   content: "\e9a2";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_star_stroked:before {
+.icon-iD_route .path14:before {
   content: "\e9a3";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.icon-maki_star:before {
+.icon-iD_waterway_canal:before {
   content: "\e9a4";
 }
-.icon-maki_suitcase:before {
+.icon-iD_waterway_ditch .path1:before {
   content: "\e9a5";
+  color: rgb(68, 68, 68);
 }
-.icon-maki_sushi:before {
+.icon-iD_waterway_ditch .path2:before {
   content: "\e9a6";
+  margin-left: -1em;
+  color: rgb(181, 181, 181);
 }
-.icon-maki_swimming:before {
+.icon-iD_waterway_river .path1:before {
   content: "\e9a7";
+  color: rgb(68, 68, 68);
 }
-.icon-maki_table_tennis:before {
+.icon-iD_waterway_river .path2:before {
   content: "\e9a8";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
+  opacity: 0.5;
 }
-.icon-maki_teahouse:before {
+.icon-iD_waterway_stream .path1:before {
   content: "\e9a9";
+  color: rgb(68, 68, 68);
 }
-.icon-maki_telephone:before {
+.icon-iD_waterway_stream .path2:before {
   content: "\e9aa";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
+  opacity: 0.5;
 }
-.icon-maki_tennis:before {
+.icon-maki_aerialway:before {
   content: "\e9ab";
 }
-.icon-maki_theatre:before {
+.icon-maki_airfield:before {
   content: "\e9ac";
 }
-.icon-maki_toilet:before {
+.icon-maki_airport:before {
   content: "\e9ad";
 }
-.icon-maki_town_hall:before {
+.icon-maki_alcohol_shop:before {
   content: "\e9ae";
 }
-.icon-maki_town:before {
+.icon-maki_american_football:before {
   content: "\e9af";
 }
-.icon-maki_triangle_stroked:before {
+.icon-maki_amusement_park:before {
   content: "\e9b0";
 }
-.icon-maki_triangle:before {
+.icon-maki_aquarium:before {
   content: "\e9b1";
 }
-.icon-maki_veterinary:before {
+.icon-maki_art_gallery:before {
   content: "\e9b2";
 }
-.icon-maki_viewpoint:before {
+.icon-maki_attraction:before {
   content: "\e9b3";
 }
-.icon-maki_village:before {
+.icon-maki_bakery:before {
   content: "\e9b4";
 }
-.icon-maki_volcano:before {
+.icon-maki_bank_jp:before {
   content: "\e9b5";
 }
-.icon-maki_volleyball:before {
+.icon-maki_bank:before {
   content: "\e9b6";
 }
-.icon-maki_warehouse:before {
+.icon-maki_bar:before {
   content: "\e9b7";
 }
-.icon-maki_waste_basket:before {
+.icon-maki_barrier:before {
   content: "\e9b8";
 }
-.icon-maki_watch:before {
+.icon-maki_baseball:before {
   content: "\e9b9";
 }
-.icon-maki_water:before {
+.icon-maki_basketball:before {
   content: "\e9ba";
 }
-.icon-maki_waterfall:before {
+.icon-maki_bbq:before {
   content: "\e9bb";
 }
-.icon-maki_watermill:before {
+.icon-maki_beach:before {
   content: "\e9bc";
 }
-.icon-maki_wetland:before {
+.icon-maki_beer:before {
   content: "\e9bd";
 }
-.icon-maki_wheelchair:before {
+.icon-maki_bicycle_share:before {
   content: "\e9be";
 }
-.icon-maki_windmill:before {
+.icon-maki_bicycle:before {
   content: "\e9bf";
 }
-.icon-maki_zoo:before {
+.icon-maki_blood_bank:before {
   content: "\e9c0";
 }
-.icon-temaki_abseiling:before {
+.icon-maki_bowling_alley:before {
   content: "\e9c1";
 }
-.icon-temaki_accounting:before {
+.icon-maki_bridge:before {
   content: "\e9c2";
 }
-.icon-temaki_amusement_park:before {
+.icon-maki_building_alt1:before {
   content: "\e9c3";
 }
-.icon-temaki_antenna:before {
+.icon-maki_building:before {
   content: "\e9c4";
 }
-.icon-temaki_archery:before {
+.icon-maki_bus:before {
   content: "\e9c5";
 }
-.icon-temaki_atm:before {
+.icon-maki_cafe:before {
   content: "\e9c6";
 }
-.icon-temaki_beach:before {
+.icon-maki_campsite:before {
   content: "\e9c7";
 }
-.icon-temaki_beauty_salon:before {
+.icon-maki_car_rental:before {
   content: "\e9c8";
 }
-.icon-temaki_bench:before {
+.icon-maki_car_repair:before {
   content: "\e9c9";
 }
-.icon-temaki_binoculars:before {
+.icon-maki_car:before {
   content: "\e9ca";
 }
-.icon-temaki_blind:before {
+.icon-maki_casino:before {
   content: "\e9cb";
 }
-.icon-temaki_boat_ramp:before {
+.icon-maki_castle_jp:before {
   content: "\e9cc";
 }
-.icon-temaki_boat_tour:before {
+.icon-maki_castle:before {
   content: "\e9cd";
 }
-.icon-temaki_boating:before {
+.icon-maki_cemetery_jp:before {
   content: "\e9ce";
 }
-.icon-temaki_book_store:before {
+.icon-maki_cemetery:before {
   content: "\e9cf";
 }
-.icon-temaki_boulder1:before {
+.icon-maki_charging_station:before {
   content: "\e9d0";
 }
-.icon-temaki_boulder2:before {
+.icon-maki_cinema:before {
   content: "\e9d1";
 }
-.icon-temaki_boulder3:before {
+.icon-maki_circle_stroked:before {
   content: "\e9d2";
 }
-.icon-temaki_bowling_alt1:before {
+.icon-maki_circle:before {
   content: "\e9d3";
 }
-.icon-temaki_bowling:before {
+.icon-maki_city:before {
   content: "\e9d4";
 }
-.icon-temaki_buffer_stop:before {
+.icon-maki_clothing_store:before {
   content: "\e9d5";
 }
-.icon-temaki_bulb:before {
+.icon-maki_college_jp:before {
   content: "\e9d6";
 }
-.icon-temaki_canoe:before {
+.icon-maki_college:before {
   content: "\e9d7";
 }
-.icon-temaki_car_dealer:before {
+.icon-maki_commercial:before {
   content: "\e9d8";
 }
-.icon-temaki_car_wash:before {
+.icon-maki_communications_tower:before {
   content: "\e9d9";
 }
-.icon-temaki_casino:before {
+.icon-maki_confectionery:before {
   content: "\e9da";
 }
-.icon-temaki_chairlift:before {
+.icon-maki_convenience:before {
   content: "\e9db";
 }
-.icon-temaki_chimney:before {
+.icon-maki_cricket:before {
   content: "\e9dc";
 }
-.icon-temaki_climbing:before {
+.icon-maki_cross:before {
   content: "\e9dd";
 }
-.icon-temaki_clock:before {
+.icon-maki_dam:before {
   content: "\e9de";
 }
-.icon-temaki_clothes_hanger:before {
+.icon-maki_danger:before {
   content: "\e9df";
 }
-.icon-temaki_compass:before {
+.icon-maki_defibrillator:before {
   content: "\e9e0";
 }
-.icon-temaki_courthouse:before {
+.icon-maki_dentist:before {
   content: "\e9e1";
 }
-.icon-temaki_crane:before {
+.icon-maki_doctor:before {
   content: "\e9e2";
 }
-.icon-temaki_cross_country_skiing:before {
+.icon-maki_dog_park:before {
   content: "\e9e3";
 }
-.icon-temaki_diamond:before {
+.icon-maki_drinking_water:before {
   content: "\e9e4";
 }
-.icon-temaki_dice:before {
+.icon-maki_embassy:before {
   content: "\e9e5";
 }
-.icon-temaki_disc_golf_basket:before {
+.icon-maki_emergency_phone:before {
   content: "\e9e6";
 }
-.icon-temaki_diving:before {
+.icon-maki_entrance_alt1:before {
   content: "\e9e7";
 }
-.icon-temaki_donut:before {
+.icon-maki_entrance:before {
   content: "\e9e8";
 }
-.icon-temaki_electronic:before {
+.icon-maki_farm:before {
   content: "\e9e9";
 }
-.icon-temaki_elevator:before {
+.icon-maki_fast_food:before {
   content: "\e9ea";
 }
-.icon-temaki_fire_hydrant:before {
+.icon-maki_fence:before {
   content: "\e9eb";
 }
-.icon-temaki_fish_cleaning:before {
+.icon-maki_ferry:before {
   content: "\e9ec";
 }
-.icon-temaki_fishing_pier:before {
+.icon-maki_fire_station-jp:before {
   content: "\e9ed";
 }
-.icon-temaki_florist:before {
+.icon-maki_fire_station:before {
   content: "\e9ee";
 }
-.icon-temaki_food:before {
+.icon-maki_fitness_centre:before {
   content: "\e9ef";
 }
-.icon-temaki_fountain:before {
+.icon-maki_florist:before {
   content: "\e9f0";
 }
-.icon-temaki_furniture:before {
+.icon-maki_fuel:before {
   content: "\e9f1";
 }
-.icon-temaki_golf_cart:before {
+.icon-maki_furniture:before {
   content: "\e9f2";
 }
-.icon-temaki_guard_rail:before {
+.icon-maki_gaming:before {
   content: "\e9f3";
 }
-.icon-temaki_gym:before {
+.icon-maki_garden_centre:before {
   content: "\e9f4";
 }
-.icon-temaki_hair_care:before {
+.icon-maki_garden:before {
   content: "\e9f5";
 }
-.icon-temaki_hang_gliding:before {
+.icon-maki_gift:before {
   content: "\e9f6";
 }
-.icon-temaki_hinduism:before {
+.icon-maki_globe:before {
   content: "\e9f7";
 }
-.icon-temaki_horseshoes:before {
+.icon-maki_golf:before {
   content: "\e9f8";
 }
-.icon-temaki_ice_fishing:before {
+.icon-maki_grocery:before {
   content: "\e9f9";
 }
-.icon-temaki_ice_skating:before {
+.icon-maki_hairdresser:before {
   content: "\e9fa";
 }
-.icon-temaki_inline_skating:before {
+.icon-maki_harbor:before {
   content: "\e9fb";
 }
-.icon-temaki_jet_skiing:before {
+.icon-maki_hardware:before {
   content: "\e9fc";
 }
-.icon-temaki_jewelry_store:before {
+.icon-maki_heart:before {
   content: "\e9fd";
 }
-.icon-temaki_junction:before {
+.icon-maki_heliport:before {
   content: "\e9fe";
 }
-.icon-temaki_kayaking:before {
+.icon-maki_home:before {
   content: "\e9ff";
 }
-.icon-temaki_kerb_flush:before {
+.icon-maki_horse_riding:before {
   content: "\ea00";
 }
-.icon-temaki_kerb_lowered:before {
+.icon-maki_hospital_jp:before {
   content: "\ea01";
 }
-.icon-temaki_kerb_raised:before {
+.icon-maki_hospital:before {
   content: "\ea02";
 }
-.icon-temaki_kerb_rolled:before {
+.icon-maki_ice_cream:before {
   content: "\ea03";
 }
-.icon-temaki_laundry:before {
+.icon-maki_industry:before {
   content: "\ea04";
 }
-.icon-temaki_lawyer:before {
+.icon-maki_information:before {
   content: "\ea05";
 }
-.icon-temaki_library:before {
+.icon-maki_jewelry_store:before {
   content: "\ea06";
 }
-.icon-temaki_light_rail:before {
+.icon-maki_karaoke:before {
   content: "\ea07";
 }
-.icon-temaki_lock:before {
+.icon-maki_landmark_jp:before {
   content: "\ea08";
 }
-.icon-temaki_milestone:before {
+.icon-maki_landmark:before {
   content: "\ea09";
 }
-.icon-temaki_military:before {
+.icon-maki_landuse:before {
   content: "\ea0a";
 }
-.icon-temaki_monorail:before {
+.icon-maki_laundry:before {
   content: "\ea0b";
 }
-.icon-temaki_movie_rental:before {
+.icon-maki_library:before {
   content: "\ea0c";
 }
-.icon-temaki_museum:before {
+.icon-maki_lighthouse:before {
   content: "\ea0d";
 }
-.icon-temaki_pedestrian:before {
+.icon-maki_lodging:before {
   content: "\ea0e";
 }
-.icon-temaki_pet_store:before {
+.icon-maki_logging:before {
   content: "\ea0f";
 }
-.icon-temaki_pharmacy:before {
+.icon-maki_marker_stroked:before {
   content: "\ea10";
 }
-.icon-temaki_physiotherapist:before {
+.icon-maki_marker:before {
   content: "\ea11";
 }
-.icon-temaki_pin:before {
+.icon-maki_mobile_phone:before {
   content: "\ea12";
 }
-.icon-temaki_plumber:before {
+.icon-maki_monument:before {
   content: "\ea13";
 }
-.icon-temaki_post_box:before {
+.icon-maki_mountain:before {
   content: "\ea14";
 }
-.icon-temaki_power:before {
+.icon-maki_museum:before {
   content: "\ea15";
 }
-.icon-temaki_radiation:before {
+.icon-maki_music:before {
   content: "\ea16";
 }
-.icon-temaki_rafting:before {
+.icon-maki_natural:before {
   content: "\ea17";
 }
-.icon-temaki_railing:before {
+.icon-maki_optician:before {
   content: "\ea18";
 }
-.icon-temaki_railway_signals:before {
+.icon-maki_paint:before {
   content: "\ea19";
 }
-.icon-temaki_real_estate_agency:before {
+.icon-maki_park_alt1:before {
   content: "\ea1a";
 }
-.icon-temaki_ruins:before {
+.icon-maki_park:before {
   content: "\ea1b";
 }
-.icon-temaki_rv_park:before {
+.icon-maki_parking_garage:before {
   content: "\ea1c";
 }
-.icon-temaki_sailing:before {
+.icon-maki_parking:before {
   content: "\ea1d";
 }
-.icon-temaki_school:before {
+.icon-maki_pharmacy:before {
   content: "\ea1e";
 }
-.icon-temaki_scuba_diving:before {
+.icon-maki_picnic_site:before {
   content: "\ea1f";
 }
-.icon-temaki_shinto:before {
+.icon-maki_pitch:before {
   content: "\ea20";
 }
-.icon-temaki_shopping_mall:before {
+.icon-maki_place_of-worship:before {
   content: "\ea21";
 }
-.icon-temaki_shower:before {
+.icon-maki_playground:before {
   content: "\ea22";
 }
-.icon-temaki_shuffleboard:before {
+.icon-maki_police_jp:before {
   content: "\ea23";
 }
-.icon-temaki_sikhism:before {
+.icon-maki_police:before {
   content: "\ea24";
 }
-.icon-temaki_silo:before {
+.icon-maki_post_jp:before {
   content: "\ea25";
 }
-.icon-temaki_skateboarding:before {
+.icon-maki_post:before {
   content: "\ea26";
 }
-.icon-temaki_ski_jumping:before {
+.icon-maki_prison:before {
   content: "\ea27";
 }
-.icon-temaki_skiing:before {
+.icon-maki_rail_light:before {
   content: "\ea28";
 }
-.icon-temaki_sledding:before {
+.icon-maki_rail_metro:before {
   content: "\ea29";
 }
-.icon-temaki_snow_shoeing:before {
+.icon-maki_rail:before {
   content: "\ea2a";
 }
-.icon-temaki_snow:before {
+.icon-maki_ranger_station:before {
   content: "\ea2b";
 }
-.icon-temaki_snowboarding:before {
+.icon-maki_recycling:before {
   content: "\ea2c";
 }
-.icon-temaki_snowmobile:before {
+.icon-maki_religious_buddhist:before {
   content: "\ea2d";
 }
-.icon-temaki_social_facility:before {
+.icon-maki_religious_christian:before {
   content: "\ea2e";
 }
-.icon-temaki_spa:before {
+.icon-maki_religious_jewish:before {
   content: "\ea2f";
 }
-.icon-temaki_stop:before {
+.icon-maki_religious_muslim:before {
   content: "\ea30";
 }
-.icon-temaki_storage_tank:before {
+.icon-maki_religious_shinto:before {
   content: "\ea31";
 }
-.icon-temaki_storage:before {
+.icon-maki_residential_community:before {
   content: "\ea32";
 }
-.icon-temaki_subway:before {
+.icon-maki_restaurant_noodle:before {
   content: "\ea33";
 }
-.icon-temaki_surfing:before {
+.icon-maki_restaurant_pizza:before {
   content: "\ea34";
 }
-.icon-temaki_swamp:before {
+.icon-maki_restaurant_seafood:before {
   content: "\ea35";
 }
-.icon-temaki_taoism:before {
+.icon-maki_restaurant:before {
   content: "\ea36";
 }
-.icon-temaki_taxi_stand:before {
+.icon-maki_roadblock:before {
   content: "\ea37";
 }
-.icon-temaki_telephone:before {
+.icon-maki_rocket:before {
   content: "\ea38";
 }
-.icon-temaki_tennis:before {
+.icon-maki_school_jp:before {
   content: "\ea39";
 }
-.icon-temaki_toolbox:before {
+.icon-maki_school:before {
   content: "\ea3a";
 }
-.icon-temaki_tools:before {
+.icon-maki_scooter:before {
   content: "\ea3b";
 }
-.icon-temaki_tower:before {
+.icon-maki_shelter:before {
   content: "\ea3c";
 }
-.icon-temaki_traffic_signals:before {
+.icon-maki_shoe:before {
   content: "\ea3d";
 }
-.icon-temaki_tram:before {
+.icon-maki_shop:before {
   content: "\ea3e";
 }
-.icon-temaki_transit:before {
+.icon-maki_skateboard:before {
   content: "\ea3f";
 }
-.icon-temaki_travel_agency:before {
+.icon-maki_skiing:before {
   content: "\ea40";
 }
-.icon-temaki_trolleybus:before {
+.icon-maki_slaughterhouse:before {
   content: "\ea41";
 }
-.icon-temaki_truck:before {
+.icon-maki_slipway:before {
   content: "\ea42";
 }
-.icon-temaki_vending_machine:before {
+.icon-maki_snowmobile:before {
   content: "\ea43";
 }
-.icon-temaki_vertex:before {
+.icon-maki_soccer:before {
   content: "\ea44";
 }
-.icon-temaki_veterinary_care:before {
+.icon-maki_square_stroked:before {
   content: "\ea45";
 }
-.icon-temaki_wall:before {
+.icon-maki_square:before {
   content: "\ea46";
 }
-.icon-temaki_waterskiing:before {
+.icon-maki_stadium:before {
   content: "\ea47";
 }
-.icon-temaki_whale_watching:before {
+.icon-maki_star_stroked:before {
   content: "\ea48";
 }
-.icon-temaki_wheelchair:before {
+.icon-maki_star:before {
   content: "\ea49";
 }
-.icon-temaki_wind_surfing:before {
+.icon-maki_suitcase:before {
   content: "\ea4a";
 }
-.icon-temaki_wind_turbine:before {
+.icon-maki_sushi:before {
   content: "\ea4b";
 }
-.icon-temaki_windmill:before {
+.icon-maki_swimming:before {
   content: "\ea4c";
 }
-.icon-temaki_window:before {
+.icon-maki_table_tennis:before {
   content: "\ea4d";
 }
-.icon-temaki_yield:before {
+.icon-maki_teahouse:before {
   content: "\ea4e";
 }
-.icon-temaki_zoo:before {
+.icon-maki_telephone:before {
   content: "\ea4f";
+}
+.icon-maki_tennis:before {
+  content: "\ea50";
+}
+.icon-maki_theatre:before {
+  content: "\ea51";
+}
+.icon-maki_toilet:before {
+  content: "\ea52";
+}
+.icon-maki_town_hall:before {
+  content: "\ea53";
+}
+.icon-maki_town:before {
+  content: "\ea54";
+}
+.icon-maki_triangle_stroked:before {
+  content: "\ea55";
+}
+.icon-maki_triangle:before {
+  content: "\ea56";
+}
+.icon-maki_veterinary:before {
+  content: "\ea57";
+}
+.icon-maki_viewpoint:before {
+  content: "\ea58";
+}
+.icon-maki_village:before {
+  content: "\ea59";
+}
+.icon-maki_volcano:before {
+  content: "\ea5a";
+}
+.icon-maki_volleyball:before {
+  content: "\ea5b";
+}
+.icon-maki_warehouse:before {
+  content: "\ea5c";
+}
+.icon-maki_waste_basket:before {
+  content: "\ea5d";
+}
+.icon-maki_watch:before {
+  content: "\ea5e";
+}
+.icon-maki_water:before {
+  content: "\ea5f";
+}
+.icon-maki_waterfall:before {
+  content: "\ea60";
+}
+.icon-maki_watermill:before {
+  content: "\ea61";
+}
+.icon-maki_wetland:before {
+  content: "\ea62";
+}
+.icon-maki_wheelchair:before {
+  content: "\ea63";
+}
+.icon-maki_windmill:before {
+  content: "\ea64";
+}
+.icon-maki_zoo:before {
+  content: "\ea65";
+}
+.icon-temaki_abseiling:before {
+  content: "\ea66";
+}
+.icon-temaki_accounting:before {
+  content: "\ea67";
+}
+.icon-temaki_amusement_park:before {
+  content: "\ea68";
+}
+.icon-temaki_antenna:before {
+  content: "\ea69";
+}
+.icon-temaki_archery:before {
+  content: "\ea6a";
+}
+.icon-temaki_atm:before {
+  content: "\ea6b";
+}
+.icon-temaki_balloon:before {
+  content: "\ea6c";
+}
+.icon-temaki_beach:before {
+  content: "\ea6d";
+}
+.icon-temaki_beauty_salon:before {
+  content: "\ea6e";
+}
+.icon-temaki_bench:before {
+  content: "\ea6f";
+}
+.icon-temaki_binoculars:before {
+  content: "\ea70";
+}
+.icon-temaki_blind:before {
+  content: "\ea71";
+}
+.icon-temaki_boat_ramp:before {
+  content: "\ea72";
+}
+.icon-temaki_boat_tour:before {
+  content: "\ea73";
+}
+.icon-temaki_boating:before {
+  content: "\ea74";
+}
+.icon-temaki_book_store:before {
+  content: "\ea75";
+}
+.icon-temaki_bottles:before {
+  content: "\ea76";
+}
+.icon-temaki_boulder1:before {
+  content: "\ea77";
+}
+.icon-temaki_boulder2:before {
+  content: "\ea78";
+}
+.icon-temaki_boulder3:before {
+  content: "\ea79";
+}
+.icon-temaki_bowling_alt1:before {
+  content: "\ea7a";
+}
+.icon-temaki_bowling:before {
+  content: "\ea7b";
+}
+.icon-temaki_buffer_stop:before {
+  content: "\ea7c";
+}
+.icon-temaki_bulb:before {
+  content: "\ea7d";
+}
+.icon-temaki_bulb2:before {
+  content: "\ea7e";
+}
+.icon-temaki_bulb3:before {
+  content: "\ea7f";
+}
+.icon-temaki_bulldozer:before {
+  content: "\ea80";
+}
+.icon-temaki_cairn:before {
+  content: "\ea81";
+}
+.icon-temaki_canoe:before {
+  content: "\ea82";
+}
+.icon-temaki_car_dealer:before {
+  content: "\ea83";
+}
+.icon-temaki_car_wash:before {
+  content: "\ea84";
+}
+.icon-temaki_casino:before {
+  content: "\ea85";
+}
+.icon-temaki_chairlift:before {
+  content: "\ea86";
+}
+.icon-temaki_chimney:before {
+  content: "\ea87";
+}
+.icon-temaki_chocolate:before {
+  content: "\ea88";
+}
+.icon-temaki_climbing:before {
+  content: "\ea89";
+}
+.icon-temaki_clock:before {
+  content: "\ea8a";
+}
+.icon-temaki_clothes_hanger:before {
+  content: "\ea8b";
+}
+.icon-temaki_compass:before {
+  content: "\ea8c";
+}
+.icon-temaki_courthouse:before {
+  content: "\ea8d";
+}
+.icon-temaki_crane:before {
+  content: "\ea8e";
+}
+.icon-temaki_cross_country_skiing:before {
+  content: "\ea8f";
+}
+.icon-temaki_diamond:before {
+  content: "\ea90";
+}
+.icon-temaki_dice:before {
+  content: "\ea91";
+}
+.icon-temaki_disc_golf_basket:before {
+  content: "\ea92";
+}
+.icon-temaki_diving:before {
+  content: "\ea93";
+}
+.icon-temaki_donut:before {
+  content: "\ea94";
+}
+.icon-temaki_ear:before {
+  content: "\ea95";
+}
+.icon-temaki_electronic:before {
+  content: "\ea96";
+}
+.icon-temaki_elevator:before {
+  content: "\ea97";
+}
+.icon-temaki_fashion_accessories:before {
+  content: "\ea98";
+}
+.icon-temaki_fire_hydrant:before {
+  content: "\ea99";
+}
+.icon-temaki_fish_cleaning:before {
+  content: "\ea9a";
+}
+.icon-temaki_fishing_pier:before {
+  content: "\ea9b";
+}
+.icon-temaki_florist:before {
+  content: "\ea9c";
+}
+.icon-temaki_food:before {
+  content: "\ea9d";
+}
+.icon-temaki_fountain:before {
+  content: "\ea9e";
+}
+.icon-temaki_furniture:before {
+  content: "\ea9f";
+}
+.icon-temaki_gas:before {
+  content: "\eaa0";
+}
+.icon-temaki_golf_cart:before {
+  content: "\eaa1";
+}
+.icon-temaki_guard_rail:before {
+  content: "\eaa2";
+}
+.icon-temaki_gym:before {
+  content: "\eaa3";
+}
+.icon-temaki_hair_care:before {
+  content: "\eaa4";
+}
+.icon-temaki_hand:before {
+  content: "\eaa5";
+}
+.icon-temaki_handbag:before {
+  content: "\eaa6";
+}
+.icon-temaki_hang_gliding:before {
+  content: "\eaa7";
+}
+.icon-temaki_hearing_aid:before {
+  content: "\eaa8";
+}
+.icon-temaki_hinduism:before {
+  content: "\eaa9";
+}
+.icon-temaki_horseshoes:before {
+  content: "\eaaa";
+}
+.icon-temaki_ice_fishing:before {
+  content: "\eaab";
+}
+.icon-temaki_ice_skating:before {
+  content: "\eaac";
+}
+.icon-temaki_inline_skating:before {
+  content: "\eaad";
+}
+.icon-temaki_jet_skiing:before {
+  content: "\eaae";
+}
+.icon-temaki_jewelry_store:before {
+  content: "\eaaf";
+}
+.icon-temaki_junction:before {
+  content: "\eab0";
+}
+.icon-temaki_kayaking:before {
+  content: "\eab1";
+}
+.icon-temaki_kerb_flush:before {
+  content: "\eab2";
+}
+.icon-temaki_kerb_lowered:before {
+  content: "\eab3";
+}
+.icon-temaki_kerb_raised:before {
+  content: "\eab4";
+}
+.icon-temaki_kerb_rolled:before {
+  content: "\eab5";
+}
+.icon-temaki_kitchen_sink:before {
+  content: "\eab6";
+}
+.icon-temaki_laundry:before {
+  content: "\eab7";
+}
+.icon-temaki_lawyer:before {
+  content: "\eab8";
+}
+.icon-temaki_letter_box:before {
+  content: "\eab9";
+}
+.icon-temaki_library:before {
+  content: "\eaba";
+}
+.icon-temaki_lift_gate:before {
+  content: "\eabb";
+}
+.icon-temaki_light_rail:before {
+  content: "\eabc";
+}
+.icon-temaki_lipstick:before {
+  content: "\eabd";
+}
+.icon-temaki_lock:before {
+  content: "\eabe";
+}
+.icon-temaki_milestone:before {
+  content: "\eabf";
+}
+.icon-temaki_military:before {
+  content: "\eac0";
+}
+.icon-temaki_money_hand:before {
+  content: "\eac1";
+}
+.icon-temaki_monorail:before {
+  content: "\eac2";
+}
+.icon-temaki_movie_rental:before {
+  content: "\eac3";
+}
+.icon-temaki_museum:before {
+  content: "\eac4";
+}
+.icon-temaki_pedestrian:before {
+  content: "\eac5";
+}
+.icon-temaki_perfume:before {
+  content: "\eac6";
+}
+.icon-temaki_pet_store:before {
+  content: "\eac7";
+}
+.icon-temaki_pharmacy:before {
+  content: "\eac8";
+}
+.icon-temaki_physiotherapist:before {
+  content: "\eac9";
+}
+.icon-temaki_pin:before {
+  content: "\eaca";
+}
+.icon-temaki_pipe:before {
+  content: "\eacb";
+}
+.icon-temaki_plumber:before {
+  content: "\eacc";
+}
+.icon-temaki_post_box:before {
+  content: "\eacd";
+}
+.icon-temaki_power_tower:before {
+  content: "\eace";
+}
+.icon-temaki_power:before {
+  content: "\eacf";
+}
+.icon-temaki_psychic:before {
+  content: "\ead0";
+}
+.icon-temaki_radiation:before {
+  content: "\ead1";
+}
+.icon-temaki_radio:before {
+  content: "\ead2";
+}
+.icon-temaki_rafting:before {
+  content: "\ead3";
+}
+.icon-temaki_railing:before {
+  content: "\ead4";
+}
+.icon-temaki_railway_signals:before {
+  content: "\ead5";
+}
+.icon-temaki_real_estate_agency:before {
+  content: "\ead6";
+}
+.icon-temaki_roller_coaster:before {
+  content: "\ead7";
+}
+.icon-temaki_ruins:before {
+  content: "\ead8";
+}
+.icon-temaki_rv_park:before {
+  content: "\ead9";
+}
+.icon-temaki_sailing:before {
+  content: "\eada";
+}
+.icon-temaki_sandwich:before {
+  content: "\eadb";
+}
+.icon-temaki_school:before {
+  content: "\eadc";
+}
+.icon-temaki_scuba_diving:before {
+  content: "\eadd";
+}
+.icon-temaki_security_camera:before {
+  content: "\eade";
+}
+.icon-temaki_shinto:before {
+  content: "\eadf";
+}
+.icon-temaki_shopping_mall:before {
+  content: "\eae0";
+}
+.icon-temaki_shower:before {
+  content: "\eae1";
+}
+.icon-temaki_shuffleboard:before {
+  content: "\eae2";
+}
+.icon-temaki_sikhism:before {
+  content: "\eae3";
+}
+.icon-temaki_silo:before {
+  content: "\eae4";
+}
+.icon-temaki_skateboarding:before {
+  content: "\eae5";
+}
+.icon-temaki_ski_jumping:before {
+  content: "\eae6";
+}
+.icon-temaki_skiing:before {
+  content: "\eae7";
+}
+.icon-temaki_sledding:before {
+  content: "\eae8";
+}
+.icon-temaki_snow_shoeing:before {
+  content: "\eae9";
+}
+.icon-temaki_snow:before {
+  content: "\eaea";
+}
+.icon-temaki_snowboarding:before {
+  content: "\eaeb";
+}
+.icon-temaki_snowmobile:before {
+  content: "\eaec";
+}
+.icon-temaki_social_facility:before {
+  content: "\eaed";
+}
+.icon-temaki_spa:before {
+  content: "\eaee";
+}
+.icon-temaki_speaker:before {
+  content: "\eaef";
+}
+.icon-temaki_stop:before {
+  content: "\eaf0";
+}
+.icon-temaki_storage_tank:before {
+  content: "\eaf1";
+}
+.icon-temaki_storage:before {
+  content: "\eaf2";
+}
+.icon-temaki_subway:before {
+  content: "\eaf3";
+}
+.icon-temaki_surfing:before {
+  content: "\eaf4";
+}
+.icon-temaki_swamp:before {
+  content: "\eaf5";
+}
+.icon-temaki_tanning:before {
+  content: "\eaf6";
+}
+.icon-temaki_tanning2:before {
+  content: "\eaf7";
+}
+.icon-temaki_taoism:before {
+  content: "\eaf8";
+}
+.icon-temaki_taxi_stand:before {
+  content: "\eaf9";
+}
+.icon-temaki_telephone:before {
+  content: "\eafa";
+}
+.icon-temaki_temaki:before {
+  content: "\eafb";
+}
+.icon-temaki_tennis:before {
+  content: "\eafc";
+}
+.icon-temaki_tire:before {
+  content: "\eafd";
+}
+.icon-temaki_toolbox:before {
+  content: "\eafe";
+}
+.icon-temaki_tools:before {
+  content: "\eaff";
+}
+.icon-temaki_tower:before {
+  content: "\eb00";
+}
+.icon-temaki_traffic_signals:before {
+  content: "\eb01";
+}
+.icon-temaki_tram:before {
+  content: "\eb02";
+}
+.icon-temaki_transit:before {
+  content: "\eb03";
+}
+.icon-temaki_travel_agency:before {
+  content: "\eb04";
+}
+.icon-temaki_trolleybus:before {
+  content: "\eb05";
+}
+.icon-temaki_truck:before {
+  content: "\eb06";
+}
+.icon-temaki_utility_pole:before {
+  content: "\eb07";
+}
+.icon-temaki_vacuum:before {
+  content: "\eb08";
+}
+.icon-temaki_vending_machine:before {
+  content: "\eb09";
+}
+.icon-temaki_vending_newspaper:before {
+  content: "\eb0a";
+}
+.icon-temaki_vertex:before {
+  content: "\eb0b";
+}
+.icon-temaki_veterinary_care:before {
+  content: "\eb0c";
+}
+.icon-temaki_wall:before {
+  content: "\eb0d";
+}
+.icon-temaki_waterskiing:before {
+  content: "\eb0e";
+}
+.icon-temaki_whale_watching:before {
+  content: "\eb0f";
+}
+.icon-temaki_wheelchair:before {
+  content: "\eb10";
+}
+.icon-temaki_wind_surfing:before {
+  content: "\eb11";
+}
+.icon-temaki_wind_turbine:before {
+  content: "\eb12";
+}
+.icon-temaki_windmill:before {
+  content: "\eb13";
+}
+.icon-temaki_window:before {
+  content: "\eb14";
+}
+.icon-temaki_yield:before {
+  content: "\eb15";
+}
+.icon-temaki_zoo:before {
+  content: "\eb16";
 }
